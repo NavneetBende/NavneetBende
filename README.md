@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bendenavneet" target="blank"><img src="https://img.shields.io/twitter/follow/bendenavneet?logo=twitter&style=for-the-badge" alt="bendenavneet" /></a> </p>
 
-- 🌱 I’m currently learning **Oracle-SQL, Core-JAVA (J2SE), HTML, CSS, Java-Script etc...**
+- 🌱 I’m currently learning **Oracle-SQL, PostgreSQL, Core-JAVA (J2SE), HTML, CSS, Java-Script, Spring, Spring-Boot,  etc...**
 
 - 💬 Ask me about **Oracle- SQL, JAVA**
 
